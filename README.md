@@ -1,5 +1,8 @@
 Instagram Example
 ===========
+Assignment 0
+Kane Chong A09555706
+COGS 121 SP15
 
 Discussion 1:
 
